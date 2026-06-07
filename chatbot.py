@@ -1,6 +1,6 @@
 """
 Traditional Rule-Based Chatbot
-Author: Khizer Abbas
+Author: Ghazal Akhtar
 Description:
 This chatbot uses simple rule-based logic instead of an LLM.
 It responds to greetings, help requests, project questions,
